@@ -31,4 +31,4 @@
 ![Install](https://github.com/KubanCoffeeRoasters/SupremeManual/assets/134377245/2338ba58-e1be-4548-9bce-6d9ffbf12ec6)
 
 
- 9 When installation done reboot system.
+ 9. Reboot the system when the installation is complete
