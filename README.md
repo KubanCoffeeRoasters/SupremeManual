@@ -1,7 +1,7 @@
 # Supreme Manual
 
 ## How To Update HMI
- 1. Download ![Download Latest Release](https://img.shields.io/github/v/release/KubanCoffeeRoasters/SupremeManual)  
+ 1. Download [![GitHub release (latest by date)](https://img.shields.io/github/v/release/KubanCoffeeRoasters/SupremeManual)](https://github.com/KubanCoffeeRoasters/SupremeManual/releases/latest)
  2. Copy the `SUPREME_MANUAL 1.0.0.X.ist` into the usb flash disk.
  3. Plug the usb flash disk into the HMI.
  4. Tab the upper left corner of the screen.
