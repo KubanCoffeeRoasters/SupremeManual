@@ -7,8 +7,8 @@
  4. Tab the upper left corner of the screen.
  5. Tab To Data
  
- 
-![Main](https://github.com/KubanCoffeeRoasters/SupremeManual/assets/134377245/a7a25ad6-1e40-47f1-be4d-add417dc1cfd)
+ ![Latest Release](https://github.com/KubanCoffeeRoasters/SupremeManual/releases/latest)
+ ![Main](https://github.com/KubanCoffeeRoasters/SupremeManual/assets/134377245/a7a25ad6-1e40-47f1-be4d-add417dc1cfd)
 
 
 
