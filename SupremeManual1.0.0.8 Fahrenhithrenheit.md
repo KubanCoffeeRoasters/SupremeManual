@@ -1,7 +1,7 @@
 # Supreme Manual Fahrenheit
 
 ## How To Update HMI
- 1. Download [![GitHub release (latest by date)](https://img.shields.io/github/v/release/KubanCoffeeRoasters/SupremeManual)](https://github.com/KubanCoffeeRoasters/SupremeManual/releases/download/V1.0.0.8_F/Supreme_Manual_Fahrenheit1.0.8.ist)
+ 1. Download [![GitHub release (V1.0.0.8_F)](https://img.shields.io/github/v/release/KubanCoffeeRoasters/SupremeManual)](https://github.com/KubanCoffeeRoasters/SupremeManual/releases/download/V1.0.0.8_F/Supreme_Manual_Fahrenheit1.0.8.ist)
  2. Unzip IST file.
  3. Copy the IST file into the usb flash disk.
  4. Plug the usb flash disk into the HMI.
