@@ -1,7 +1,7 @@
 
 # Supreme Manual
 
-## How To Reset Supreme Manual Touch Screen?
+## How To Restore The Factory Default For The Supreme Manual Screen?
  You can follow the steps below to reset the Supreme Manual Screen.
  
  1. Tap the upper left corner of the screen
